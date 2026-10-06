@@ -13,7 +13,7 @@ authenticated session.
 - **Entry:** VDB-399395
 - **CVE id:** CVE-2026-86238
 - **Vendor Homepage:** https://projectworlds.com/free-projects/php-projects/online-examination/
-- **Vulnerability Type:** Stored XSS — CWE-79
+- **Vulnerability Type:** Stored XSS — CWE-79 
 - **Affected File:** `feedback.php` (input), `dash.php?q=3` (execution/sink)
 - **Affected Parameters:** `Name`, `Subject`
 
